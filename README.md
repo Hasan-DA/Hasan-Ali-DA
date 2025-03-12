@@ -51,7 +51,7 @@ I am an aspiring Data Analyst with a strong foundation in **Python, SQL, Excel,*
 
 ## 📫 Connect With Me
 📧 **Email:** [hasanali.tech2025@gmail.com](mailto:hasanali.tech2025@gmail.com)  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#) *(Add your link here)*  
+🔗 **LinkedIn:** https://www.linkedin.com/in/hasan-ali-442182351/  
 💻 **GitHub:** [Hasan-DA](https://github.com/Hasan-DA)
 
 ---
