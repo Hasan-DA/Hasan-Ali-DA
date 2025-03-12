@@ -6,12 +6,17 @@ I am an aspiring Data Analyst with a strong foundation in Python, SQL, Excel, an
 
 ## 💼 Professional Summary
 Skilled in data cleaning, analysis, and visualization to support business decision-making.
+
 Strong problem-solving ability and analytical mindset.
+
 Experienced in working with large datasets, drawing insights, and creating dashboards.
+
 Background in full-stack web development, enhancing my ability to integrate analytical solutions into web-based applications.
-🎓 Education
+
+##🎓 Education
 Bachelor of Computer Applications (BCA) - Sikkim University (77.5%)
-🔧 Skills & Technologies
+
+### 🔧 Skills & Technologies
 Data Analytics:
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 MySQL, Excel, Power Query, Power BI
