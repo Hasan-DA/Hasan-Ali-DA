@@ -1,4 +1,4 @@
-Hi, I'm  Hasan Ali ! 👋
+# Hi, I'm  Hasan Ali ! 👋
 🚀 About Me
 I am an aspiring Data Analyst with a strong foundation in Python, SQL, Excel, and data visualization tools. Passionate about transforming raw data into meaningful trends and optimizing business strategies through analytical solutions. I am currently pursuing a Data Analytics training at Grass Solution Pvt.Ltd  and eager to apply my skills to real-world data-driven challenges.
 
